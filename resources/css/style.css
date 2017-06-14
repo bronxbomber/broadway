@@ -1,0 +1,66 @@
+* {
+  font-family: helvetica;
+  }
+
+.header {
+  color: white;
+  background-image: url(/Users/David/Downloads/Projects/broadway/resources/css/images/the-flatiron-building.png);
+  font-weight: bold;
+  text-align: center;
+  }
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+.header h3 {
+  text-decoration: underline;
+  font-size: 18px;
+  text-align: center;
+  }
+
+.upper-body h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.upper-body h3 {
+  font-size: 23px;
+  text-align: center;
+}
+
+.upper-body p {
+  font-size: 14px;
+  text-align: center;
+}
+
+.body-image {
+  color: white;
+  background-image: url(/Users/David/Downloads/Projects/broadway/resources/css/images/the-flatiron-building.png);
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.bottom-body h3 {
+  font-size: 23px;
+  text-align: center;
+}
+
+.bottom-body p {
+  font-size: 14px;
+  text-align: center;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+
+#footer a {
+  color: white;
+}
